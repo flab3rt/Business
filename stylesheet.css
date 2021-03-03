@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'gotham_black';
+    src: url('14004.eot');
+    src: url('14004.woff') format('woff'),
+         url('14004.ttf') format('truetype');
+        font-weight: bold;
+        font-style: normal;     
+}
